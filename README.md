@@ -1,12 +1,9 @@
 # Mc-Kali
-Hack Interface for Kali Linux - Multi-Tool for Network Scanning,  Payload Creation and other !
+Hack Interface for Kali Linux - Multi-Tool for Network Scanning, Payload Creation and other !
 
 This project is an interactive Python interface designed for Kali Linux users or any compatible system. It features tools for network scanning, payload generation using Metasploit, and input validation for IPs and ports. Perfect for cybersecurity enthusiasts looking to automate common tasks in a user-friendly environment.
 
 Key Features:
-
-  Custom ASCII Art Display:
-      A colorful ASCII art welcome message for users.
 
   Network Scanning:
       Validate and scan IP ranges using nmap.
@@ -39,7 +36,7 @@ Installation:
   Clone the repository:
 
     git clone https://github.com/username/hack-interface-kali.git
-    cd hack-interface-kali
+    cd Mc-Kali
 
 Install Python dependencies:
 
